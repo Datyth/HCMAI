@@ -781,7 +781,3 @@ __all__ = [
     'FileInfo',
     'create_sample_data'
 ]
-
-print("utils.py created successfully")
-print("=" * 60)
-print(utils_code[:3000] + "...")
