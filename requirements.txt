@@ -1,0 +1,35 @@
+neo4j==5.15.0
+python-dotenv==1.0.0
+
+# LangChain Ecosystem
+langchain==0.1.0
+langchain-community==0.0.13
+langchain-experimental==0.0.51
+langchain-openai==0.0.5
+langchain-neo4j==0.0.5
+langchain-core==0.1.14
+
+# OpenAI
+openai==1.11.1
+
+# Embedding and NLP
+sentence-transformers==2.2.2
+underthesea==6.7.0
+
+# Data Processing
+pandas==2.1.4
+numpy==1.24.3
+
+# Utilities
+tqdm==4.66.1
+requests==2.31.0
+
+# Optional: For better performance and features
+# torch==2.1.2+cpu  # CPU version of PyTorch for sentence-transformers
+# transformers==4.36.2  # For advanced transformer models
+
+# Development and Testing (optional)
+pytest==7.4.3
+pytest-asyncio==0.21.1
+black==23.11.0
+isort==5.12.0
