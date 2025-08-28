@@ -746,7 +746,3 @@ __all__ = [
     'QueryResult',
     'QueryAnalysis'
 ]
-
-print("query_engine.py created successfully")
-print("=" * 60)
-print(query_engine_code[:3000] + "...")
