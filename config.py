@@ -235,8 +235,3 @@ def get_config(env: str = None) -> Config:
     }
     
     return config_map.get(env, DevelopmentConfig)
-
-
-print("config.py created successfully")
-print("=" * 60)
-print(config_code[:2000] + "...")
