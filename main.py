@@ -667,7 +667,3 @@ Examples:
 
 if __name__ == "__main__":
     exit(main())
-
-print("main.py created successfully")
-print("=" * 60)
-print(main_code[:3000] + "...")
