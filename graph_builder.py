@@ -762,7 +762,3 @@ __all__ = [
     'Triple',
     'GraphStats'
 ]
-
-print("graph_builder.py created successfully")
-print("=" * 60)
-print(graph_builder_code[:3000] + "...")
